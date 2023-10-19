@@ -1,0 +1,35 @@
+.wetherBg{
+  background: url("https://earthathome.org/wp-content/uploads/2021/12/Climate-Wisconsin-Header-Banner-2000px.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.heading{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.wetherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 250px;
+}
+
+.wetherIcon{
+  margin-top: 2rem;
+  height: 80px;
+  width: 80px;
+}
+
+.weatherCity{
+  font-size: 30px;
+}
+
+.weatherTemp{
+  font-size: 55px;
+  font-weight: 700;
+}
